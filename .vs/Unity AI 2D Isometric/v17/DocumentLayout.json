@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity Projects\\Unity AI 2D Isometric\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity Projects\\Unity AI 2D Isometric\\Library\\PackageCache\\com.unity.2d.tilemap@f011712243ad\\Editor\\TileDragAndDrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.2d.tilemap@f011712243ad\\Editor\\TileDragAndDrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F223E1-1131-65D3-80E2-C9787DF8AC28}|Assembly-CSharp.csproj|c:\\unity projects\\unity ai 2d isometric\\assets\\scripts\\weapon\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F223E1-1131-65D3-80E2-C9787DF8AC28}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F223E1-1131-65D3-80E2-C9787DF8AC28}|Assembly-CSharp.csproj|C:\\Unity Projects\\Unity AI 2D Isometric\\assets\\scripts\\enemy\\enemyanimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F223E1-1131-65D3-80E2-C9787DF8AC28}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyanimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F223E1-1131-65D3-80E2-C9787DF8AC28}|Assembly-CSharp.csproj|C:\\Unity Projects\\Unity AI 2D Isometric\\assets\\scripts\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F223E1-1131-65D3-80E2-C9787DF8AC28}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F223E1-1131-65D3-80E2-C9787DF8AC28}|Assembly-CSharp.csproj|C:\\Unity Projects\\Unity AI 2D Isometric\\assets\\scripts\\enemy\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F223E1-1131-65D3-80E2-C9787DF8AC28}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\PlayerAnimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerAnimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity Projects\\Unity AI 2D Isometric\\Library\\PackageCache\\com.unity.2d.tilemap@f011712243ad\\Editor\\GridEditorUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.2d.tilemap@f011712243ad\\Editor\\GridEditorUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\PlayerWeaponHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerWeaponHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\Shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\Weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\WeaponAim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WeaponAim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TileDragAndDrop.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Unity AI 2D Isometric\\Library\\PackageCache\\com.unity.2d.tilemap@f011712243ad\\Editor\\TileDragAndDrop.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.tilemap@f011712243ad\\Editor\\TileDragAndDrop.cs",
+              "ToolTip": "C:\\Unity Projects\\Unity AI 2D Isometric\\Library\\PackageCache\\com.unity.2d.tilemap@f011712243ad\\Editor\\TileDragAndDrop.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.tilemap@f011712243ad\\Editor\\TileDragAndDrop.cs",
+              "ViewState": "AgIAAFQCAAAAAAAAAAAWwF8CAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T09:23:09.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\Weapon\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\Weapon.cs",
+              "ToolTip": "C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\Weapon\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:12:19.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyAnimations.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\Enemy\\EnemyAnimations.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyAnimations.cs",
+              "ToolTip": "C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\Enemy\\EnemyAnimations.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyAnimations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T03:03:05.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "ToolTip": "C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T02:58:41.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\Enemy\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyAI.cs",
+              "ToolTip": "C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\Enemy\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyAI.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T02:58:10.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GridEditorUtility.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Unity AI 2D Isometric\\Library\\PackageCache\\com.unity.2d.tilemap@f011712243ad\\Editor\\GridEditorUtility.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.tilemap@f011712243ad\\Editor\\GridEditorUtility.cs",
+              "ToolTip": "C:\\Unity Projects\\Unity AI 2D Isometric\\Library\\PackageCache\\com.unity.2d.tilemap@f011712243ad\\Editor\\GridEditorUtility.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.tilemap@f011712243ad\\Editor\\GridEditorUtility.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T02:43:09.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T04:01:39.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerAnimations.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\PlayerAnimations.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAnimations.cs",
+              "ToolTip": "C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\PlayerAnimations.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerAnimations.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwEQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T09:47:54.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAB8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:07:32.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerWeaponHandler.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\PlayerWeaponHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerWeaponHandler.cs",
+              "ToolTip": "C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\PlayerWeaponHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerWeaponHandler.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA7wEQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:52:04.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Shooting.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\Shooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shooting.cs",
+              "ToolTip": "C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\Shooting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shooting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:03:56.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon.cs",
+              "ToolTip": "C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:51:02.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeaponAim.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\WeaponAim.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponAim.cs",
+              "ToolTip": "C:\\Unity Projects\\Unity AI 2D Isometric\\Assets\\Scripts\\WeaponAim.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponAim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:57:51.353Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
